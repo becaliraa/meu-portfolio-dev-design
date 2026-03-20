@@ -18,10 +18,10 @@ const projects: Project[] = [
     repoUrl: "https://github.com/becaliraa/crm-client-pro",
   },
   {
-    title: "Pack Social Media - Pizzaria",
-    desc: "Comunicação visual focada em clareza de oferta e aquisição de clientes para serviços de internet.",
-    tags: ["Figma", "Freepik", "Social Media", "Food Design"],
-    liveUrl: "https://www.behance.net/gallery/227131845/Social-Media-Design-Pizza",
+    title: "Case Study - Brewly",
+    desc: "Estudo de UX focado na redução do abandono de carrinho em e-commerce, com melhorias na jornada de compra, usabilidade e conversão.",
+    tags: ["UX Design", "UX Discovery", "E-commerce", "User Journey", "Conversion Optimization"],
+    liveUrl: "https://case-study-brewly.vercel.app/",
   },
   {
     title: "Pack Social Media - Provedor de Internet",
@@ -30,10 +30,10 @@ const projects: Project[] = [
     liveUrl: "https://www.behance.net/gallery/227112481/Social-Media-Design-Provedor-de-Internet",
   },
   {
-    title: "Pack Social media - Pet Shop",
-    desc: "Pack de social media criado para atrair clientes e fortalecer a presença digital de um pet shop.",
-    tags: ["Serviços Digitais", "Social Media Design", "Food Design"],
-    liveUrl: "https://www.behance.net/gallery/241314791/Social-Media-Pet-Shop",
+    title: "Identidade Visual - Shazam Delivery",
+    desc: "Projeto de identidade visual para delivery, com foco em comunicação atrativa, reconhecimento de marca e presença digital no segmento alimentício",
+    tags: ["Branding", "Logo", "Identidade Visual", "brand design"],
+    liveUrl: "https://www.behance.net/gallery/226263859/Shazam-Salgados-Identidade-Visual",
   },
 ];
 
