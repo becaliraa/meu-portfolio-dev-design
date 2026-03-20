@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
 
-## Project info
+# ✨ Portfólio — Rebeca Lira
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Bem-vindo(a) ao meu portfólio! 🚀
+Aqui você encontra meus projetos nas áreas de **UX/UI Design**, **Social Media Design** e **Desenvolvimento Web**.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 💡 Sobre mim
 
-**Use Lovable**
+Sou Designer e Desenvolvedora focada na criação de experiências digitais modernas, funcionais e centradas no usuário.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Atuo desde a concepção visual até a implementação, unindo design estratégico com desenvolvimento front-end para entregar soluções completas.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🚀 Áreas de atuação
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* 🎨 UX/UI Design
+* 📱 Social Media Design
+* 💻 Desenvolvimento Web (Front-End)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🧩 Projetos em destaque
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🍕 Social Media — Pizza
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Conteúdo visual estratégico para aumentar engajamento e conversão no segmento alimentício.
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🌐 Provedor de Internet
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Comunicação visual focada em clareza de oferta e aquisição de clientes.
 
-**Edit a file directly in GitHub**
+### 🐾 Pet Shop
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Design voltado para atrair clientes e fortalecer a presença digital no segmento pet.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🛠️ Tecnologias utilizadas
 
-## What technologies are used for this project?
+* React
+* TypeScript
+* Vite
+* HTML5
+* CSS3
+* JavaScript
+* Figma
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🌐 Acesse o projeto
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🔗 [Visualizar portfólio]()
