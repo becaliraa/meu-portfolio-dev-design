@@ -35,7 +35,7 @@ const HeroSection = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-lg md:text-xl font-medium text-foreground/80 mb-3"
         >
-          Front-End Developer & UI/UX Designer
+          Desenvolvedora Web & UI/UX Designer
         </motion.p>
 
         <motion.p
@@ -93,10 +93,10 @@ const HeroSection = () => {
             Ver Projetos
           </a>
           <a
-            href="#contato"
+            href="https://drive.google.com/file/d/1lgPusX5pP-Ne-aE5WuOvKXI73SAjAcoE/view?usp=sharing"
             className="px-7 py-3 rounded-full border border-border text-foreground font-medium text-sm hover:bg-secondary transition-colors"
           >
-            Contato
+            CV
           </a>
         </motion.div>
       </div>
